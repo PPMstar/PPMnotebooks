@@ -1,0 +1,4 @@
+run_id = D20
+fit_start = 2.40546e+03 s
+fit_end = 4.43811e+03 s
+mdot = 1.619112e-08 M_Sun/s

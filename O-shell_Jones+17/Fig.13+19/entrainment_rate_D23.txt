@@ -1,0 +1,4 @@
+run_id = D23
+fit_start = 1.07402e+03 s
+fit_end = 3.20432e+03 s
+mdot = 9.495860e-08 M_Sun/s
