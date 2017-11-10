@@ -1,4 +1,0 @@
-run_id = D6
-fit_start = 6.00000e+02 s
-fit_end = 2.48000e+03 s
-mdot = 1.681502e-05 M_Sun/s
