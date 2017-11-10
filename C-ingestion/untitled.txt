@@ -1,5 +1,0 @@
-1. Mesa plot
-2. 
-3.Added option to add label to legend of the velocity plot
-4.TODO add luminosity v mass or something
-5.TODO make prof time more powerful
