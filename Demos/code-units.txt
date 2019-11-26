@@ -1,0 +1,17 @@
+Code units for PPMstar
+
+c         1 unit of length = 1000 km = 1 Mm = 10**8 cm.
+c         1 unit of velocity = 1000 km/sec = 10**8 cm/sec = 1 Mm / sec
+c         1 unit of time = 1 sec
+c         1 unit of density = 1 kgm/cc = 1000 gm/cc = 10**27 gm / Mm**3
+c         1 unit of mass = 10**27 gm = 5.025e-07 solar masses
+c                                    = 1/6 earth masses
+c                1 solar mass = 1.99 * 10**30 kg.
+c                1 earth mass = 6.0e+24 kg.
+c         1 unit of energy = 10**27 gm * 10**16 cm**2/sec**2
+c                          = 10**43 ergs
+c                1 unit of energy per unit volume = 10**43 / 10**24 cgs
+c         1 unit of pressure = 1000 (gm/cc) * (10**8 cm/sec)**2
+c                            = 10**19 gm/(cm-sec**2)
+c         1 unit of acceleration = 10**8 cm/sec/sec
+c         1 unit of temperature = 10**9 degrees Kelvin = GK
