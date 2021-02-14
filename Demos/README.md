@@ -1,6 +1,6 @@
 # Notebooks
 
-Notebooks recently tested are covered in this document, which is updated as time permits. Other notebooks in this dir may just work as well, or may need a little bit of tweaking. If you run into issues contact us. These notebooks run on the [Astrohub](https://astrohub.uvic.ca) and on [ppmstar.org](https://astrohub.ppmstar.org) using the PPMstar Hub in the Spawner menu. 
+Notebooks recently tested are covered in this document, which is updated as time permits. Other notebooks in this dir may just work as well, or may need a little bit of tweaking. If you run into issues contact us. These notebooks run on the [Astrohub](https://astrohub.uvic.ca) and on [ppmstar.org](https://www.ppmstar.org) using the PPMstar Hub in the Spawner menu. 
 
 The table below gives an update on recently tested notebooks.
 
