@@ -14,7 +14,6 @@
 `Lagrangian_diffusion_analysis-make-shell-files.ipynb` | top panel Fig 1 
 `D-vr-FV-compare.ipynb`    | bottom panel of Fig 1
 `Hydro-Results.ipynb`      | Figs 3,  4, 5, 6, 7, 8, 9, 10, 12
-`Compare-mppnp.ipynb`      | similar to Fig 16
 `Mppnp-results.ipynb`      | Figs 13, 14, 15, 16
 
 * Original location of these notebooks: CSA GitLab repo `3d1d-advection-paper:notebooks`
