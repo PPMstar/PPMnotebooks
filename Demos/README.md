@@ -11,5 +11,7 @@ MomsData_Demo.ipynb | Demo of Briquette (we call them moms) data which is 3D dat
 RProf_gui.ipynb  | A widget to plot radial profile data with a simple GUI |  >= PPMstarHub 1.2.5
 Slice_gui.ipynb | A widget to plot slice images of Moms data with a GUI | PPMstarHub 1.2.6
 Mollweide_gui.ipynb | A widget to plot Mollweide projections of Moms data with a GUI | PPMstarHub 1.2.6
+Analysis-entrainment.ipynb | RProf analysis: entrainment and diffusion coefficient fitting [in progress!!]| PPMstarHub 1.2.6
+Rprof-time-evolution.ipynb | RProf analysis: time evolution of  of entrainment and diffusion coefficient fitting [in progress!!]| PPMstarHub 1.2.6
 
 
